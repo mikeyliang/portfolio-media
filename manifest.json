@@ -232,5 +232,68 @@
     "group": "Profile icons",
     "sha256": "9f48c5b9877d2badf2ec7b3ad2167bed9936ebde67dbd2e1755b51429e8f7a87",
     "bytes": 5729
+  },
+  {
+    "path": "cuauv/aurora-downcam-exploded.jpg",
+    "title": "Aurora downward camera",
+    "caption": "The downward camera, housing, and seals.",
+    "source": "Michael Liang, original Aurora assembly drawing, 2021",
+    "group": "CUAUV Aurora",
+    "sha256": "b6e28b0d12c3408497b8d5ceab3a096251aeb3beb10db5a0ffceb52de22b456a",
+    "bytes": 655716
+  },
+  {
+    "path": "cuauv/aurora-forward-exploded.jpg",
+    "title": "Aurora forward camera",
+    "caption": "The external forward camera assembly.",
+    "source": "Michael Liang, original Aurora assembly drawing, 2021",
+    "group": "CUAUV Aurora",
+    "sha256": "f77d10025210e513d56de9789eed8a04fdbe5a6374feaa1fd9252327a982b913",
+    "bytes": 422395
+  },
+  {
+    "path": "cuauv/aurora-internal-exploded.jpg",
+    "title": "Aurora internal camera mount",
+    "caption": "The forward camera mounted inside the upper hull.",
+    "source": "Michael Liang, original Aurora assembly drawing, 2021",
+    "group": "CUAUV Aurora",
+    "sha256": "2d87edfe4c00cdb977ad4c677987f38b9fac97f29b97b35792871f06e9db0cbd",
+    "bytes": 130109
+  },
+  {
+    "path": "cuauv/polaris-vehicle.png",
+    "title": "Polaris vehicle",
+    "caption": "CUAUV’s 2023 vehicle, shown for project context.",
+    "source": "https://robonation.org/app/uploads/sites/4/2023/06/TDR_CUAUV_RS23_NUFgRBc.pdf",
+    "group": "CUAUV Polaris",
+    "sha256": "509d8c7fd4388579e37ea69a8115584147c88db14b40f190450562638089f30a",
+    "bytes": 1453666
+  },
+  {
+    "path": "cuauv/polaris-camera-enclosure.png",
+    "title": "Polaris camera enclosure",
+    "caption": "The wider enclosure for the ZED stereo camera.",
+    "source": "https://robonation.org/app/uploads/sites/4/2023/06/TDR_CUAUV_RS23_NUFgRBc.pdf",
+    "group": "CUAUV Polaris",
+    "sha256": "0a1a67a32bb4725941911c966407f030afd0993380c510aa3a9784e525913de4",
+    "bytes": 237370
+  },
+  {
+    "path": "cuauv/aurora-technical-report.pdf",
+    "title": "Aurora technical report",
+    "caption": "My original design report, May 31, 2021.",
+    "source": "Michael Liang, original portfolio document",
+    "group": "CUAUV documents",
+    "sha256": "d35628869defa7ea8818d966d66e962750f46c1f2dcf28e3b444cda134829cd6",
+    "bytes": 10884794
+  },
+  {
+    "path": "cuauv/aurora-assembly-manual.pdf",
+    "title": "Aurora assembly manual",
+    "caption": "My original assembly manual, December 29, 2021.",
+    "source": "Michael Liang, original portfolio document",
+    "group": "CUAUV documents",
+    "sha256": "af2a85209990faffdee3817c626f20c1d6103274a4a610a58f31914606f1f4bc",
+    "bytes": 4887351
   }
 ]
