@@ -14,3 +14,5 @@ Exact sources, captions, file sizes, and SHA-256 checksums are recorded in manif
 
 - CUAUV Aurora: Michael Liang’s original 2021 camera enclosure assembly drawings, technical report, and user manual; documents linked from the original portfolio.
 - CUAUV Polaris: figures 1 and 2 from the [CUAUV 2023 RoboSub team report](https://robonation.org/app/uploads/sites/4/2023/06/TDR_CUAUV_RS23_NUFgRBc.pdf), coauthored by Michael Liang. Vehicle render credited to CUAUV; it provides context for the camera enclosure project.
+
+- Transparent project previews: Aurora’s vehicle render comes unchanged from the [official CUAUV archive](https://cuauv.org/past-subs). The SVG only frames the embedded original for a 2:1 project card. The keyboard is a native KiCad export from the original board, with a transparent background and brighter render lighting. It depicts a bare PCB, not a completed keyboard. Existing originals remain available.

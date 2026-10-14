@@ -295,5 +295,32 @@
     "group": "CUAUV documents",
     "sha256": "af2a85209990faffdee3817c626f20c1d6103274a4a610a58f31914606f1f4bc",
     "bytes": 4887351
+  },
+  {
+    "path": "cuauv/aurora-vehicle.png",
+    "title": "Aurora vehicle render",
+    "caption": "CUAUV’s original transparent Aurora render.",
+    "source": "https://cuauv.org/past-subs",
+    "group": "Transparent previews",
+    "sha256": "c5507d7c4c3a77da5835c4f6f7f03ae93d77d84b1a0d65618dc60f063891e354",
+    "bytes": 161808
+  },
+  {
+    "path": "cuauv/aurora-vehicle-preview.svg",
+    "title": "Aurora project preview",
+    "caption": "Original vehicle render in a transparent frame sized for project cards.",
+    "source": "https://cuauv.org/past-subs",
+    "group": "Transparent previews",
+    "sha256": "6ce1f8796661424da4095335f37bc421c89acb7619c6abb8437c2851a13c1138",
+    "bytes": 216052
+  },
+  {
+    "path": "keyboard/keyboard-pcb-transparent.png",
+    "title": "Keyboard PCB transparent render",
+    "caption": "Bare PCB exported directly from my original KiCad design.",
+    "source": "Michael Liang, original keyboard/keyboard.kicad_pcb design; native KiCad render with transparent background",
+    "group": "Transparent previews",
+    "sha256": "45af293b304324744b24a33e4ce8fbf2abec62da18e2c906e46bb05b30c328d2",
+    "bytes": 429176
   }
 ]
