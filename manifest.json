@@ -1,0 +1,236 @@
+[
+  {
+    "path": "tubesort/camera-view.jpg",
+    "title": "TubeSort workbench",
+    "caption": "The camera’s view of the gantry and game before processing.",
+    "source": "Original TubeSort project files",
+    "group": "TubeSort",
+    "sha256": "c9e5c8c89d80c2e3e586334fa94901ea06217fe4a3776f323aba805952063068",
+    "bytes": 239662
+  },
+  {
+    "path": "tubesort/ipad-mask.jpg",
+    "title": "Finding the screen",
+    "caption": "The dark-pixel mask used to isolate the iPad.",
+    "source": "Original TubeSort project files",
+    "group": "TubeSort",
+    "sha256": "3553c8eda43bc2c1bad0f188b508f5f511603b209d5aa7a23db9bae3b1d36941",
+    "bytes": 43148
+  },
+  {
+    "path": "tubesort/screen-warp.jpg",
+    "title": "Correcting perspective",
+    "caption": "The detected screen warped into a consistent view.",
+    "source": "Original TubeSort project files",
+    "group": "TubeSort",
+    "sha256": "f5a36a1cb6041637ce43f76a00061529a6b5a98a50e56ac826d9f7e1f360cc0b",
+    "bytes": 63065
+  },
+  {
+    "path": "tubesort/tube-threshold.jpg",
+    "title": "Separating tube shapes",
+    "caption": "Thresholded tube outlines from the vision pipeline.",
+    "source": "Original TubeSort project files",
+    "group": "TubeSort",
+    "sha256": "8ae3a99aac946b5c01fcf7130e69da83740afa1650a20b28fbff9e1bd6d1f3f4",
+    "bytes": 12966
+  },
+  {
+    "path": "tubesort/tube-regions.jpg",
+    "title": "Selecting tube regions",
+    "caption": "The filtered regions used for sampling each tube.",
+    "source": "Original TubeSort project files",
+    "group": "TubeSort",
+    "sha256": "5e82c57268baaa0a589202c72d577eb0cf9f143d1a1272b8fccc78c76e8b36ae",
+    "bytes": 29123
+  },
+  {
+    "path": "tubesort/tube-centers.jpg",
+    "title": "Mapping coordinates",
+    "caption": "Tube centers shown on the camera view.",
+    "source": "Original TubeSort project files",
+    "group": "TubeSort",
+    "sha256": "14c271323069fd3b537066e4e519dc3a6b4b3b9d47af1ba7284fdf4ab99d0518",
+    "bytes": 241170
+  },
+  {
+    "path": "pico-says/circuit_1.jpeg",
+    "title": "Player controller",
+    "caption": "The soldered LED and button board connected to a Pico W.",
+    "source": "https://ece4760.github.io/Projects/Fall2023/ml2226_cca54/index.html",
+    "group": "Pico Says",
+    "sha256": "3f0720aaafc78cf53f8ab416bfaf0aabe881a51c0af8af38b6a9979a3adaa170",
+    "bytes": 223982
+  },
+  {
+    "path": "pico-says/result.jpeg",
+    "title": "Two-player lab setup",
+    "caption": "Both controllers and VGA screens running the game.",
+    "source": "https://ece4760.github.io/Projects/Fall2023/ml2226_cca54/index.html",
+    "group": "Pico Says",
+    "sha256": "e59ab91379086f9434897b4435a88a61df4f648f2b9469c2a58824f095d692c1",
+    "bytes": 435425
+  },
+  {
+    "path": "pico-says/circuit_2.jpeg",
+    "title": "Controller wiring",
+    "caption": "A closer view of the Pico W and prototype connections.",
+    "source": "https://ece4760.github.io/Projects/Fall2023/ml2226_cca54/index.html",
+    "group": "Pico Says",
+    "sha256": "f7d6a28433447b2f2ece24670d2599539945bca202e6af0601a08d842d5ea212",
+    "bytes": 371631
+  },
+  {
+    "path": "pico-says/enter_screen.jpeg",
+    "title": "Gameplay screen",
+    "caption": "Turn instructions, lives, and sequence feedback on VGA.",
+    "source": "https://ece4760.github.io/Projects/Fall2023/ml2226_cca54/index.html",
+    "group": "Pico Says",
+    "sha256": "bc3906c6efa28c98f66ef55d9ddb3a3644e5e18e31fb23aa3183812a07aede50",
+    "bytes": 217758
+  },
+  {
+    "path": "pico-says/end_screen.jpeg",
+    "title": "End screen",
+    "caption": "The game ends when a player runs out of lives.",
+    "source": "https://ece4760.github.io/Projects/Fall2023/ml2226_cca54/index.html",
+    "group": "Pico Says",
+    "sha256": "83ec3b7fdf35ce6e0d7fec43be96df03c1228056b525f5365676bf6c3e1e6979",
+    "bytes": 179978
+  },
+  {
+    "path": "pico-says/data_array.png",
+    "title": "Packet layout",
+    "caption": "The move number and sequence layout from our original report.",
+    "source": "https://ece4760.github.io/Projects/Fall2023/ml2226_cca54/index.html",
+    "group": "Pico Says",
+    "sha256": "fd296bf9bfdd61e4fc6163a14e880929c451dbd73b485a1d3cf72a49193b6601",
+    "bytes": 18899
+  },
+  {
+    "path": "keyboard/keyboard-pcb-render.png",
+    "title": "Keyboard PCB render",
+    "caption": "Bare PCB rendered from my original KiCad design.",
+    "source": "Original DIY keyboard design files",
+    "group": "DIY Keyboard",
+    "sha256": "b1d882a1a9f7a4fd0a1f4aa71c2c829d3454cad80f6477df4a391964529231ad",
+    "bytes": 370170
+  },
+  {
+    "path": "keyboard/keyboard-layout.png",
+    "title": "Keyboard layout",
+    "caption": "Copper routing, switch footprints, and board connections.",
+    "source": "Original DIY keyboard design files",
+    "group": "DIY Keyboard",
+    "sha256": "4d22ede6316d022a39f1bb949d2d34f553800b94c4bcc589993cee0d60dec9cd",
+    "bytes": 258676
+  },
+  {
+    "path": "keyboard/keyboard-schematic.png",
+    "title": "Keyboard schematic",
+    "caption": "The switch and LED matrices, controller, OLED, and supporting circuits.",
+    "source": "Original DIY keyboard design files",
+    "group": "DIY Keyboard",
+    "sha256": "946e34a4ef4362a40caf48468f63a24903ce86f0b748f2255976ef61abf6098d",
+    "bytes": 197207
+  },
+  {
+    "path": "portfolio/portfolio-room.jpg",
+    "title": "The 3D room",
+    "caption": "A capture of the interactive homepage.",
+    "source": "https://mikey-liang.com/",
+    "group": "Portfolio",
+    "sha256": "9e1ea773d1aa4b52f5e93719ffe5404e7e2a85e462366629e315b3977edcabab",
+    "bytes": 30691
+  },
+  {
+    "path": "portfolio/portfolio-about-layout.jpg",
+    "title": "About page",
+    "caption": "The live grouped skills and background layout.",
+    "source": "https://mikey-liang.com/",
+    "group": "Portfolio",
+    "sha256": "d9384ab17087e3025885735ec2e27a3fed7e97e2477b1ca75fb99515783187a2",
+    "bytes": 49520
+  },
+  {
+    "path": "portfolio/portfolio-server-layout.jpg",
+    "title": "Server notes",
+    "caption": "The live network explanation and diagram.",
+    "source": "https://mikey-liang.com/",
+    "group": "Portfolio",
+    "sha256": "c3f5d7802486dc615371335022c936c140d6c8ba9f227c3907db6bbc52c0c137",
+    "bytes": 57464
+  },
+  {
+    "path": "icons/overview-profile.png",
+    "title": "Overview",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://www.overviewenergy.com/favicon.svg?v=3",
+    "group": "Profile icons",
+    "sha256": "cc34aade1d94b3654b904a0758cfbeb7e46dfe348226d6079a78f303f77538de",
+    "bytes": 3226
+  },
+  {
+    "path": "icons/cornell.png",
+    "title": "Cornell",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://www.cornell.edu/apple-touch-icon.png",
+    "group": "Profile icons",
+    "sha256": "866ac3eb378c4e1e69d2f217a261ea98ef06fb40479420bf0d755ebe28d92f5c",
+    "bytes": 12960
+  },
+  {
+    "path": "icons/tesla.png",
+    "title": "Tesla",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://commons.wikimedia.org/wiki/File:Tesla_Motors.svg",
+    "group": "Profile icons",
+    "sha256": "5964d45d9b28034645fd9227b1da049dd9c0a940e4d9102613a8ef08d26ef317",
+    "bytes": 2919
+  },
+  {
+    "path": "icons/dassault.png",
+    "title": "Dassault",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://www.3ds.com/asset/img/favicon/apple/apple-touch-icon-180x180.png",
+    "group": "Profile icons",
+    "sha256": "399e8f9cec4cd734e5fce273a3078762aada1ad6fce9b7f56ca84a63cfe80650",
+    "bytes": 6734
+  },
+  {
+    "path": "icons/abrsm.png",
+    "title": "Abrsm",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://commons.wikimedia.org/wiki/File:ABRSM_RGB_Logo_WarmRed.png",
+    "group": "Profile icons",
+    "sha256": "a83841794b4391c8bd96e69a24ee7bc01448d5f3b132077aadd9da83cd522b30",
+    "bytes": 80231
+  },
+  {
+    "path": "icons/deeplearning.ico",
+    "title": "Deeplearning",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://www.deeplearning.ai/favicon.ico",
+    "group": "Profile icons",
+    "sha256": "9e26da5999d23c9622125aec1ffb1d22736678455ad9ac921be15d270d42b0b5",
+    "bytes": 15406
+  },
+  {
+    "path": "icons/umich.png",
+    "title": "Umich",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://rna.umich.edu/resources/center-for-rna-biomedicine-brand-downloads/",
+    "group": "Profile icons",
+    "sha256": "d4deeed2e093b782a5290b21ea2d073a0f62605b877fb9a8625018eb4f7fab28",
+    "bytes": 13345
+  },
+  {
+    "path": "icons/ibm.png",
+    "title": "Ibm",
+    "caption": "Organization icon used to identify a profile entry.",
+    "source": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-192x192.png",
+    "group": "Profile icons",
+    "sha256": "9f48c5b9877d2badf2ec7b3ad2167bed9936ebde67dbd2e1755b51429e8f7a87",
+    "bytes": 5729
+  }
+]
