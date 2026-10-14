@@ -322,5 +322,113 @@
     "group": "Transparent previews",
     "sha256": "45af293b304324744b24a33e4ce8fbf2abec62da18e2c906e46bb05b30c328d2",
     "bytes": 429176
+  },
+  {
+    "path": "ece3150/diode-iv-measured.png",
+    "title": "Measured diode I-V",
+    "caption": "Original ECE 3150 voltage/current measurements, replotted without a fitted curve.",
+    "source": "Michael Liang, ECE 3150 Lab 1 diodeiv.txt, February 2023",
+    "group": "ECE 3150",
+    "sha256": "55032949874b042117229979376f0254b9afe6d2620b0408ab5694088594b8e9",
+    "bytes": 81840
+  },
+  {
+    "path": "ece3150/diode-iv-measured.svg",
+    "title": "Diode I-V vector plot",
+    "caption": "Vector version of the measured diode curve.",
+    "source": "Michael Liang, ECE 3150 Lab 1 diodeiv.txt, February 2023",
+    "group": "ECE 3150",
+    "sha256": "9955c5ff7604383cd48848eeedd93702048ca8414070700310fa7053b97eaae0",
+    "bytes": 45962
+  },
+  {
+    "path": "ece3150/rectifier.jpeg",
+    "title": "Half-wave rectifier",
+    "caption": "Original oscilloscope capture.",
+    "source": "Michael Liang, ECE 3150 Lab 1, February 2023",
+    "group": "ECE 3150",
+    "sha256": "5f973e62e2af70a60344dc7446eeb1e20b26126acc8950e68d83a430b96c57d8",
+    "bytes": 32431
+  },
+  {
+    "path": "ece3150/rectifier-capacitor.jpeg",
+    "title": "Rectifier with capacitor",
+    "caption": "Original oscilloscope capture with smoothing capacitor.",
+    "source": "Michael Liang, ECE 3150 Lab 1, February 2023",
+    "group": "ECE 3150",
+    "sha256": "f91b5cdfb71224ba9fa53cf9adce21da2092db73bee2e2ec1aca8400f034f1b2",
+    "bytes": 32860
+  },
+  {
+    "path": "ece3150/first-order.jpeg",
+    "title": "First-order response",
+    "caption": "Original time-domain oscilloscope capture.",
+    "source": "Michael Liang, ECE 3150 Lab 1, February 2023",
+    "group": "ECE 3150",
+    "sha256": "23f26bd14f9d22c1c3fce394eb0c492989124e9508f0de0af573932bd59177f9",
+    "bytes": 33092
+  },
+  {
+    "path": "ece3150/second-order.jpeg",
+    "title": "Second-order response",
+    "caption": "Original time-domain oscilloscope capture.",
+    "source": "Michael Liang, ECE 3150 Lab 1, February 2023",
+    "group": "ECE 3150",
+    "sha256": "19a2012d9820df771a67f80f53c864040eddb2ec8ba01f1e3ed5cc44bd6b28c3",
+    "bytes": 32253
+  },
+  {
+    "path": "amr/waypoint-trajectories.png",
+    "title": "Waypoint following",
+    "caption": "Original trajectories from the motion-control lab.",
+    "source": "Michael Liang, Autonomous Mobile Robots Lab 1, 2023",
+    "group": "AMR labs",
+    "sha256": "8122b414df769b8170b29a32826ec54110738bc5af01f5cc8a3a2da3b0f59c85",
+    "bytes": 33939
+  },
+  {
+    "path": "amr/grid-localization.jpg",
+    "title": "Grid localization",
+    "caption": "Several possible locations remain in a map with repeated features.",
+    "source": "Michael Liang, Autonomous Mobile Robots HW3 write-up, February 25, 2023",
+    "group": "AMR labs",
+    "sha256": "b4b2318a24d0d5e965d9a87c92bfcb8642a1e485f542ca2019518232b3f9fdfe",
+    "bytes": 20918
+  },
+  {
+    "path": "amr/depth-occupancy-grid.jpg",
+    "title": "Depth occupancy grid",
+    "caption": "Original mapping output using recorded poses and depth readings.",
+    "source": "Michael Liang, Autonomous Mobile Robots HW5 log-odds mapping, March 2023",
+    "group": "AMR labs",
+    "sha256": "985d9dbb3a143855ad348225b40e2bd991dd627ab5a95756d37f81771a79d1ce",
+    "bytes": 66194
+  },
+  {
+    "path": "amr/potential-field.jpg",
+    "title": "Potential-field planning",
+    "caption": "Original gradient field and simulated trajectory.",
+    "source": "Michael Liang, Autonomous Mobile Robots planning lab, 2023",
+    "group": "AMR labs",
+    "sha256": "47ce3f153da116a04253433e8afdafee8eb9446f5fc417e809b6fdb8e7531ea8",
+    "bytes": 86573
+  },
+  {
+    "path": "amr/rrt-trajectory.png",
+    "title": "RRT planning and tracking",
+    "caption": "Lab output showing the sampled tree, planned route, and tracked route. This is not a final-competition trace.",
+    "source": "Michael Liang, Autonomous Mobile Robots Lab 4, 2023",
+    "group": "AMR navigation",
+    "sha256": "30a3380d7807aa6d320a99ba05092e536cd049345298801e1a54cc10e48db70d",
+    "bytes": 163130
+  },
+  {
+    "path": "amr/final-course-map.jpg",
+    "title": "Final competition arena",
+    "caption": "Course-provided map showing walls, beacons, target waypoints, and stay-away points.",
+    "source": "Cornell Autonomous Mobile Robots course map, Spring 2023; context for Michael Liang’s navigation project",
+    "group": "AMR navigation",
+    "sha256": "05fe0647c614e4af7f18a1c6b4deb70326ef05bb3665866a65b193f636b89462",
+    "bytes": 50867
   }
 ]
